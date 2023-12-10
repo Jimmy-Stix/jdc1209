@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdc1209
-- 👀 I’m interested in network and cybersecurity
+- 👀 I’m interested in network and security
 - 🌱 I’m currently learning networking and security
 - 💞️ I’m looking to collaborate on any projects relating to networks and security
 
