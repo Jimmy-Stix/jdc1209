@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jdc1209
+- 👋 Hi, I’m @Jimmy-Stix
 - 👀 I’m interested in network, security, and python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any projects in networking and python!
